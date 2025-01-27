@@ -2,6 +2,9 @@
   "name": "itis-6177-week-01",
   "version": "1.0.0",
   "main": "main.js",
+  "engines": {
+    "node": ">= 14.17.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
